@@ -1,0 +1,18 @@
+html, body { height: 100vh; background-color: #4949492a; }
+body { margin: 0; font-family: "Roboto", "Roboto", "Roboto"; }
+
+#container {
+    margin: auto auto;
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+app-root {
+    text-align: center;
+    background-color: white;
+    padding: 100px 60px 60px 60px;
+    border: 2px solid rgba(4, 86, 100, 0.4);
+}
